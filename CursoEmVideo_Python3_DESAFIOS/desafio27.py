@@ -1,0 +1,5 @@
+print('======= DESAFIO 27 =======')
+nome = input('Digite seu nome completo: ')
+lista = nome.split()
+print('Primeiro nome:', lista[0])
+print('Último nome:', lista[len(lista) - 1])

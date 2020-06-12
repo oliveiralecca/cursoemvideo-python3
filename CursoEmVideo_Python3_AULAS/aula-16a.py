@@ -1,0 +1,10 @@
+lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
+# lanche = 'Hambúrguer', 'Suco', 'Pizza', 'Pudim'   # COM OU SEM ()
+print(lanche)
+print(lanche[1])
+print(lanche[3])
+print(lanche[-2])
+print(lanche[1:3])   # DESCONSIDERA O ÚLTIMO ELEMENTO (1-2)
+print(lanche[2:])
+print(lanche[:2])   # DESCONSIDERA O ÚLTIMO ELEMENTO (início até 1)
+print(lanche[-3:])   # DO -3 ATÉ O FINAL
