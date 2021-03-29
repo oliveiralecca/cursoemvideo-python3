@@ -1,2 +1,2 @@
 # cursoemvideo-python3
- Arquivos de imagem das aulas e códigos das aulas e desafios
+Classes image files, and codes of challenges.
